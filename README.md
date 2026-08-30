@@ -21,6 +21,6 @@ A quantidade mínima de movimentos é calculada pela fórmula:
 2ⁿ - 1
 
 Tecnologias utilizadas
-Java
-Recursividade
+-Java
+-Recursividade
 
