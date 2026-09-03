@@ -23,4 +23,7 @@ A quantidade mínima de movimentos é calculada pela fórmula:
 Tecnologias utilizadas
 -Java
 -Recursividade
-
+Autores 
+Miguel/Larissa/Guilerme
+Matriculas
+2520392 / 2421146 / 2520446
